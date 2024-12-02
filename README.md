@@ -1,6 +1,4 @@
-**Gym Website
-*
-Welcome to the Gym Website project! This repository contains the source code and assets for a modern and user-friendly gym website designed to showcase gym services, classes, trainers, and facilities.
+ This repository contains the source code and assets for a modern and user-friendly gym website designed to showcase gym services, classes, trainers, and facilities.
 
 Features
 Homepage: Highlight gym features, facilities, and promotions.
